@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 testLog.txt
 .DS_Store
+/data
