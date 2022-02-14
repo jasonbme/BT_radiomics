@@ -1,1 +1,7 @@
-The repository contains the complete set of the files used in the process of creation of the engineer thesis - "Segmentation and analysis of brain MRI using machine learning"
+# Deep learning meets radiomics for end-to-end brain tumor MRI analysis
+
+**Wojciech Ponikiewski and Jakub Nalepa**
+
+(Submitted to IEEE ICIP 2022)
+
+This repository contains the implementation of our end-to-end framework for automated and reproducible brain tumor MRI analysis. Additionally, it includes the segmentation masks obtained for the investigated MRI data, alongside the radiomic features extracted for all segmentations.
