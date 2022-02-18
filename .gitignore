@@ -131,3 +131,4 @@ testLog.txt
 .DS_Store
 /data
 *.csv
+/data-original
